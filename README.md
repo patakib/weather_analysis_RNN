@@ -14,4 +14,11 @@ The model predicts the next 5 days' temperature based on the previous 90 days' t
   
 
 Here are the results:  
-<img src="weather-results.png">
+<img src="weather-results.png">  
+  
+The model can be improved further for example by:
+<ul>
+  <li>changing the number of epochs</li>
+  <li>increasing the input data which the prediction is based on (e.g. 150 days instead of 90)</li>
+  <li>adding more layers to the model</li>
+</ul>
